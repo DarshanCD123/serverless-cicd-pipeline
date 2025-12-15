@@ -178,6 +178,9 @@ See **TECHNOLOGIES.md** for complete architecture diagrams and detailed integrat
 
 **Darshan C D** - DevOps Engineer | Cloud Architect
 
+📧 Email: darshanc324@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/darshan-c-divakar
+
 GitHub: github.com/DarshanCD123
 
 ---
